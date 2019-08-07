@@ -185,7 +185,7 @@ SC.stream('/tracks/267876616',function(sound){
 
 //guru
 
-SC.stream('/tracks/602054046',function(sound){
+SC.stream('/tracks/342844832',function(sound){
 
      $("#start10").click(function(e) {
             e.preventDefault();
@@ -203,7 +203,7 @@ SC.stream('/tracks/602054046',function(sound){
 
 //aashuqui 2
 
-SC.stream('/tracks/584885949',function(sound){
+SC.stream('/tracks/166669642',function(sound){
 
      $("#start11").click(function(e) {
             e.preventDefault();
@@ -220,7 +220,7 @@ SC.stream('/tracks/584885949',function(sound){
 
 //Jhoda Akbhar
 
-SC.stream('/tracks/200200078',function(sound){
+SC.stream('/tracks/201759940',function(sound){
 
      $("#start12").click(function(e) {
             e.preventDefault();
