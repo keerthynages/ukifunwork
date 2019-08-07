@@ -91,7 +91,7 @@ SC.stream('/tracks/583641381',function(sound){
 
 //shape of you
 
-SC.stream('/tracks/301161123',function(sound){
+SC.stream('/tracks/301809211',function(sound){
 
      $("#start5").click(function(e) {
             e.preventDefault();
@@ -110,7 +110,7 @@ SC.stream('/tracks/301161123',function(sound){
 
 //Barbie
 
-SC.stream('/tracks/146782566',function(sound){
+SC.stream('/tracks/178570534',function(sound){
 
      $("#start6").click(function(e) {
             e.preventDefault();
@@ -147,7 +147,7 @@ SC.stream('/tracks/223164134',function(sound){
 
 //thinking out loud
 
-SC.stream('/tracks/175651162',function(sound){
+SC.stream('/tracks/191632495',function(sound){
 
      $("#start8").click(function(e) {
             e.preventDefault();
@@ -252,7 +252,20 @@ SC.stream('/tracks/323174483',function(sound){
              });
 });
 
+//lastone
+SC.stream('/tracks/372172220',function(sound){
 
+     $("#start14").click(function(e) {
+            e.preventDefault();
+            sound.start();
+           });
+
+
+            $("#stop14").click(function(e) {
+               e.preventDefault();
+               sound.stop();
+             });
+});
 
 
 });
